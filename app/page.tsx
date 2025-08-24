@@ -8,7 +8,7 @@ export default function HomePage() {
     <main className="min-h-screen relative">
       <img src="/fondo.jpg" alt="Background" className="absolute inset-0 object-cover w-full h-full z-0" />
       <div className="relative z-10 min-h-screen">
-        <div className="container pl-70 py-22 max-w-6x2">
+        <div className="container pl-50 py-22 max-w-6x2">
           <div className="grid lg:grid-cols-[2fr_1fr] gap-12 items-center min-h-[80vh]">
             {/* Left Column - Logo, Text and Buttons */}
             <div className="space-y-8">
